@@ -453,4 +453,24 @@ nav ul li {
     font-weight: 600;
     margin-left: 20px;
 }
+/* footer */
+.footer-container {
+    width: 1440px;
+    height: 100px;
+    margin: 0 auto;
+    margin-top: 50px;
+    background-color: rgba(13, 19, 33, 0.03);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 15px;
+}
+
+.footer-text {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 15px;
+    font-weight: 600;
+    margin-left: 5px;
+}
 
